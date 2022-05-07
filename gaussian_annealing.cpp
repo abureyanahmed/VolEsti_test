@@ -73,3 +73,11 @@ int main()
 
     return 0;
 }
+
+/*
+
+BallWalk (cube) = 1066.36 , 0.031576
+CDHRWalk (cube) = 1079.25 , 0.011129
+RDHRWalk (cube) = 1168.31 , 0.06726
+
+*/
