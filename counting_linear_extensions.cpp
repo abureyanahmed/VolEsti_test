@@ -228,4 +228,12 @@ For the min_sampling_covering_ellipsoid_rounding, walk length has an impact on r
 In my experiments, if I set the walk length equal to 10 + 10*dimension then it takes around half a minute.
 On the other hand, if I set the walk length equal to 1, then it takes around five minutes.
 
+I have tried this instance:
+https://gist.github.com/vaithak/936efac898a56aa7da72d2ef49e1d2e7#file-bipartite_0-5_100_3-txt
+
+For walk length 10 + 10*dimension, I get the following output:
+2.12708e+129
+On the other hand, for walk length 1, I get:
+5.07634e+118
+
 */
