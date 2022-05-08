@@ -236,4 +236,6 @@ For walk length 10 + 10*dimension, I get the following output:
 On the other hand, for walk length 1, I get:
 5.07634e+118
 
+I have used cooling ball method to compute volume.
+
 */
